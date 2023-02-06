@@ -5,6 +5,8 @@
 
 嗨嗨嗨~我来填坑辣！
 
+大佬的仓库: [https://github.com/sumght-z/vits_yunzai_plugin](https://github.com/sumght-z/vits_yunzai_plugin)
+
 ## 食用方法
 
 1. 打开Action服务，等待出现`bore.pub`。
